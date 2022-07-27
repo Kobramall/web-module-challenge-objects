@@ -33,8 +33,7 @@ Test your createMenuItems function by doing the following:
   
   For example: createMenuItem("pizza",5,"lunch") would return this as the object: {name:"Pizza",price:5,category:"lunch"}
 */
-const menu =[];
-console.log('task 1b:',createMenuItem('pizza', '5', 'lunch'));
+console.log('task 1b:', createMenuItem('pizza', '5', 'lunch'));
 console.log(createMenuItem('steak', '10', 'dinner'));
 console.log(createMenuItem('Eggs', '3', 'breakfast'));
 
